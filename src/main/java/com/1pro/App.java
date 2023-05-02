@@ -1,4 +1,3 @@
-package com.1pro;
 
 /**
  * Hello world!
